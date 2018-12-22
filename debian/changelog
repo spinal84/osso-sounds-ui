@@ -1,0 +1,110 @@
+osso-sounds-ui (5.6) unstable; urgency=medium
+
+  * Add multi-arch support
+
+ -- Arthur D. <spinal.by@gmail.com>  Sat, 22 Dec 2018 14:56:50 +0300
+
+osso-sounds (5.5+0m5) unstable; urgency=low
+
+  * This entry has been added by BIFH queue processor
+    Suffix +0m5 added to package revision
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Tue, 01 Sep 2009 13:53:42 +0300
+
+osso-sounds (5.5) unstable; urgency=low
+
+  * Adds more selection to IM sounds.
+  * Fixes: NB#134794
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Wed, 26 Aug 2009 09:37:12 +0300
+
+osso-sounds (5.4) unstable; urgency=low
+
+  * Removes obsolete sounds.
+  * Fixes: NB#124393
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Mon, 10 Aug 2009 09:37:12 +0300
+
+osso-sounds (5.3) unstable; urgency=low
+
+  * Refreshes ui-key_press.wav and ui-pen_down.wav
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Tue, 25 May 2009 09:37:12 +0300
+
+osso-sounds (5.2) unstable; urgency=low
+
+  * Includes Calendar and Clock sounds in AAC.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Tue, 28 Apr 2009 13:00:12 +0300
+
+osso-sounds (5.1) unstable; urgency=low
+
+  * Small tweak
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Tue, 21 Apr 2009 15:00:12 +0300
+
+osso-sounds (5.0) unstable; urgency=low
+
+  * Small tweak
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Tue, 21 Apr 2009 14:26:12 +0300
+
+osso-sounds (4.9) unstable; urgency=low
+
+  * Calendar and Clock alarms now in AAC.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Tue, 21 Apr 2009 13:26:12 +0300
+
+osso-sounds (4.8) unstable; urgency=low
+
+  * New UI sounds. Small tweaks size wise.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Tue, 31 Mar 2009 13:59:12 +0300
+
+osso-sounds (4.7) unstable; urgency=low
+
+  * New UI sounds. Partially.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Mon, 23 Mar 2009 13:17:12 +0300
+
+osso-sounds (4.6) unstable; urgency=low
+
+  * New UI sounds. Retry.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Thu, 19 Mar 2009 10:50:12 +0300
+
+osso-sounds (4.5) unstable; urgency=low
+
+  * New UI sounds. Retry. Retry. Also changed the bitrates etc to get smaller files.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Thu, 19 Mar 2009 10:50:12 +0300
+
+osso-sounds (4.4) unstable; urgency=low
+
+  * New UI sounds. Retry. Retry.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Thu, 26 Feb 2009 10:50:12 +0300
+
+osso-sounds (4.3) unstable; urgency=low
+
+  * New UI sounds. Retry.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Thu, 26 Feb 2009 10:27:12 +0300
+
+osso-sounds (4.2) unstable; urgency=low
+
+  * New UI sounds.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Thu, 26 Feb 2009 10:08:12 +0300
+
+osso-sounds (4.1) unstable; urgency=low
+
+  * Fixes: NB#99287
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Thu, 12 Feb 2009 10:08:12 +0300
+
+osso-sounds (4.0) unstable; urgency=low
+
+  * 1st integration.
+
+ -- Janne Hillervo <janne.hillervo@nokia.com>  Thu, 29 Jan 2009 09:55:12 +0300

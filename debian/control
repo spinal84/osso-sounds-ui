@@ -1,0 +1,10 @@
+Source: osso-sounds-ui
+Priority: optional
+Maintainer: Arthur D. <spinal.by@gmail.com>
+Build-Depends: debhelper (>= 10), apt, dpkg
+Standards-Version: 3.9.8
+
+Package: osso-sounds-ui
+Architecture: all
+Multi-arch: foreign
+Description: OSSO sound files for widgets
