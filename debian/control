@@ -2,7 +2,7 @@ Source: osso-sounds-ui
 Section: sound
 Priority: optional
 Maintainer: Arthur D. <spinal.by@gmail.com>
-Build-Depends: debhelper (>= 10), apt, dpkg
+Build-Depends: debhelper (>= 10)
 Standards-Version: 3.9.8
 
 Package: osso-sounds-ui
